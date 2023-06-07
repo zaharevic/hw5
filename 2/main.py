@@ -1,5 +1,4 @@
 def Sum(num1,num2):
-    sum = 0
     if(num2 == 0):
         return num1
     else:
